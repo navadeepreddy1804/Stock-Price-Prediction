@@ -1,4 +1,4 @@
-Stock Price Prediction using LSTM (Apple & BMW)
+Stock Price Prediction using LSTM (Toyota & BMW)
 
 This repository contains two deep learning projects that use LSTM (Long Short-Term Memory) networks to predict stock prices.
 The models are trained on historical stock data of: BMW and Toyota
