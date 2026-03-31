@@ -1,7 +1,7 @@
 Stock Price Prediction using LSTM (Apple & BMW)
 
 This repository contains two deep learning projects that use LSTM (Long Short-Term Memory) networks to predict stock prices.
-The models are trained on historical stock data of: Apple and BMW
+The models are trained on historical stock data of: BMW and Toyota
 
 1. Project Overview
 
@@ -17,7 +17,7 @@ Each notebook includes:
 
 2. Files in this Repository
 
-* Apple Stock Prediction.ipynb → Predicts Apple stock closing prices
+* Toyota Stock Prediction.ipynb → Predicts Toyota stock closing prices
 * BMW Stock Prediction.ipynb → Predicts BMW stock closing prices
 
 3. Technologies Used:
@@ -32,7 +32,7 @@ Each notebook includes:
 
  - Load stock dataset
  - Select `Close` price
- -  Normalize data using MinMaxScaler
+ - Normalize data using MinMaxScaler
  - Create sequences (time steps = 60)
  - Train LSTM model
  - Predict future prices
