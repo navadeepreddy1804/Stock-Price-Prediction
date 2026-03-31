@@ -5,8 +5,8 @@ The models are trained on historical stock data of: Apple and BMW
 
 1. Project Overview
 
-Stock prices are time-series data, and traditional models struggle to capture long-term dependencies.
-This project uses LSTM neural networks, which are well-suited for sequence prediction tasks.
+ Stock prices are time-series data, and traditional models struggle to capture long-term dependencies.
+ This project uses LSTM neural networks, which are well-suited for sequence prediction tasks.
 Each notebook includes:
 * Data preprocessing
 * Feature scaling
