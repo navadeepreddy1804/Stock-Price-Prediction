@@ -30,13 +30,13 @@ Each notebook includes:
 
 4. How It Works
 
-1. Load stock dataset
-2. Select `Close` price
-3. Normalize data using MinMaxScaler
-4. Create sequences (time steps = 60)
-5. Train LSTM model
-6. Predict future prices
-7. Compare predicted vs actual values
+ - Load stock dataset
+ - Select `Close` price
+ -  Normalize data using MinMaxScaler
+ - Create sequences (time steps = 60)
+ - Train LSTM model
+ - Predict future prices
+ - Compare predicted vs actual values
 
 5. Model Highlights
 
